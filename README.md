@@ -66,8 +66,6 @@ Our platform acts as a smart career coach, guiding you from your current skill l
     ```bash
     npm run dev
     ```
-5.  **Open in Browser**: [http://localhost:5173](http://localhost:5173)
-
 ---
 
 ## 🏆 Built For
